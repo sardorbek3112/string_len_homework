@@ -23,7 +23,3 @@ def main(s1,s2,s3):
         return "["+s2+"]"
     elif len(s1)%2==0 and len(s2)%2==0 and len(s3)%2==1:
         return "["+s3+"]"
-a='codeaq1'
-b="codes"
-c="coder"
-print(main(a,b,c))
